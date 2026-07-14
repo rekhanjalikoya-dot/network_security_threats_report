@@ -258,7 +258,7 @@ Blocks suspicious IP addresses or regions.
 
 
 
-![DoS Attack](../dos.png)
+![DoS Attack](https://raw.githubusercontent.com/rekhanjalikoya-dot/network_security_threats_report/main/dos.png)
 
 
 
@@ -534,7 +534,8 @@ Monitors and blocks suspicious activities.
 
 
 
-![MITM Attack](../mitm.png)
+![MITM Attack](https://raw.githubusercontent.com/rekhanjalikoya-dot/network_security_threats_report/main/mitm.png)
+
 
 
 
@@ -806,7 +807,8 @@ Detect and block suspicious activities.
 
 
 
-![Spoofing Attack](../spoofing.png)
+![Spoofing Attack](https://raw.githubusercontent.com/rekhanjalikoya-dot/network_security_threats_report/main/spoofing.png)
+
 
 
 
