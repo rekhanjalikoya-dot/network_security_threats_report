@@ -801,8 +801,8 @@ Detect and block suspicious activities.
 \* Prevention includes authentication, encryption, and awareness
 
 
-
-**## Spoofing Attack Diagram**
+ 
+**## Spoofing Attack Diagram** 
 
 
 
