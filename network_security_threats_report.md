@@ -258,7 +258,7 @@ Blocks suspicious IP addresses or regions.
 
 
 
-!\[DoS Attack](dos.png)
+![DoS Attack](../dos.png)
 
 
 
@@ -534,7 +534,7 @@ Monitors and blocks suspicious activities.
 
 
 
-!\[MITM Attack](mitm.png)
+![MITM Attack](../mitm.png)
 
 
 
@@ -806,7 +806,7 @@ Detect and block suspicious activities.
 
 
 
-!\[Spoofing Attack](spoofing.png)
+![Spoofing Attack](../spoofing.png)
 
 
 
